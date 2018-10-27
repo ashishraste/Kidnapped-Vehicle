@@ -2,7 +2,7 @@
 
 Localization of a kidnapped vehicle using Particle filter.
 
-<img src="ukf.gif?raw=true">
+<img src="particle-filter.gif?raw=true">
 
 # Overview
 This project is part of [Udacity's Self-Driving Car Nanodegree program](https://www.udacity.com/drive).
