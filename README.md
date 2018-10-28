@@ -22,6 +22,7 @@ the executable can be found in the seed-project setup by Udacity [here](https://
 2. Make >= 4.1
 3. Eigen 3.3.5
 4. gcc/g++ >= 4.1
+5. [uWebSockets](https://github.com/uNetworking/uWebSockets)
 
 ## Build and Run Instructions
 1. From the parent directory, create the build
