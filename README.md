@@ -31,7 +31,7 @@ sh clean.sh
 sh build.sh
 ```
 2. Launch the simulator
-3. Run the UKF executable
+3. Run the Particle filter executable
 ```
 sh run.sh
 ```
